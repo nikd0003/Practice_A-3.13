@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-	height: 100%;s
+	height: 100%;
 }
 
 .wrapper {
@@ -207,6 +207,7 @@ body {
 
 .content {
 	flex: 1 0 auto;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 .section2 {
@@ -217,7 +218,7 @@ body {
     margin: 0 auto;
     padding: 107px 10px 39px 10px;
     position: relative;
-    border-bottom: 1px solid #ECECEC
+    border-bottom: 1px solid #ECECEC;
 }
 
 .section2_main {
@@ -233,7 +234,7 @@ body {
     margin-bottom: 20px;
     text-transform: uppercase;
     position:relative;
-    bottom: 13px
+    bottom: 13px;
 }
 
 .section2_main > p {
